@@ -2,7 +2,8 @@
 Python project sprint one
  Analyze Diwali sales data to improve customer experience and sales
 
-Project Learnings
+#Project Learnings
+
 · Performed data cleaning and manipulation
 
 · Performed exploratory data analysis (EDA) using
